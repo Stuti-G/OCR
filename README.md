@@ -1,2 +1,3 @@
 # OCR
-Text_to_image
+Image_to_text
+
